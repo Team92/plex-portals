@@ -1,5 +1,6 @@
-## **Welcome to Plex Portals!**
+## **Home**
 
+### Welcome to Plex Portals!  
 We make portals for people!
 
 
