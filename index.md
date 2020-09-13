@@ -1,7 +1,7 @@
 ## **Home**
 
 ### Welcome to Plex Portals!  
-We make portals for people!
+We make portals for people! Known from z10r, now to TestForYety101!
 
 
 ![Plex Portals](https://iili.io/dEf4ln.png "Plex Portals")
